@@ -13,6 +13,9 @@ export const styles = StyleSheet.create({
 
   },
   subtile:{
-    
+    color: THEME.COLORS.CAPTION_400,
+    fontSize: THEME.FONT_SIZE.MD,
+    fontFamily:THEME.FONT_FAMILY.REGULAR
+
   }
 });
