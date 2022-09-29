@@ -123,7 +123,7 @@ function App() {
                     </div>
 
                     <div className="flex flex-col gap-2">
-                      <label htmlFor="discord"> Qual seu discord?</label>
+                      <label htmlFor="discord"> Qual seu discord ?</label>
                       <Input id="discord" type="text" placeholder="Usuario#0000" />
                     </div>
 
